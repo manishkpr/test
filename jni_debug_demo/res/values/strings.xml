@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">jni_debug_demo</string>
+    <string name="squared">Squared:</string>
+    <string name="to4">To 4:</string>
+</resources>
